@@ -1,0 +1,5 @@
+Residential 0 455000 35 1 Rogue Encampment
+Commercial 0 1734983 68 1 0.43 Lut Gholein
+Residential 1 73500 200 0 Kurast
+Farm 233.56 Tristram
+Farm 0 356800 150 Mount Arreat

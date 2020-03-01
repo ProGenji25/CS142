@@ -1,0 +1,5 @@
+Residential 0 250000 80 1 Korhal
+Commercial 0 123456700 145 2 Moria
+Farm 1 533000 176 Mar Sara
+Residential 100987 250 1 Char
+Commercial 1 563810 398 0 .15 Auir

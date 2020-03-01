@@ -1,0 +1,5 @@
+Farm 0 150000 50 Goldshire
+Commercial 0 560000000 25 0 0.00 Stormwind
+Residential 1 275000 46 0 Lakeshire
+Residential 1 100000 Karazhan
+Commercial 1 356780 73 1 0.5 Ironforge
